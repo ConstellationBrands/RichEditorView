@@ -28,6 +28,8 @@ body {
     overflow: auto;
     margin: 0;
     font: -apple-system-body;
+    font-size: 14px;
+    color: #666666;
 }
 
 @media (prefers-color-scheme: dark) {
